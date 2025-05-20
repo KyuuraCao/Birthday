@@ -1,16 +1,17 @@
 var config = {
   texts: [
     "For You",
-    "My beloved cutie",
+    "My Dearest Friend",
     "Today is your birthday",
-    "Today is",
-    "Your 20th birthday",
-    "lorem",
-    "lorem",
-    "lorem",
-    "lorem",
-    "Ending",
-    "Probably gonna put my name at the end`",
+    "Its Your 20th birthday",
+    "Happiest Birthday untuk kamu",
+    "Semoga Tuhan Selalu memberikan",
+    "Berkat Nya di sepanjang",
+    "Perjalanan Hidup kamu",
+    "Stay Humble Yahh",
+    "Itu aja sih hehe sisanya ",
+    "I hope we can get closer yaaa :)",
+    "Oswald~",
   ],
 
   imgs: {

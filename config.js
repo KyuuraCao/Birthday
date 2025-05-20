@@ -9,7 +9,7 @@ var config = {
     "Berkat Nya di sepanjang",
     "Perjalanan Hidup kamu",
     "Stay Humble Yahh",
-    "Itu aja sih hehe sisanya ",
+    "Itu aja sih hehe sisanyaaa... ",
     "I hope we can get closer yaaa :)",
     "Oswald~",
   ],

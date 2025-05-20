@@ -15,7 +15,7 @@ var config = {
   ],
 
   imgs: {
-    "My beloved cutie": "./imgs/princess.png",
+    "My Dearest Friend": "./imgs/princess.png",
   },
 
   desc: {

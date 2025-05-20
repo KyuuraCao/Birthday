@@ -1,7 +1,7 @@
 var config = {
   texts: [
     "For You",
-    "My Dearest Friend",
+    "The most Beautiful Person",
     "Today is your birthday",
     "Its Your 20th birthday",
     "Happiest Birthday untuk kamu",
@@ -15,7 +15,7 @@ var config = {
   ],
 
   imgs: {
-    "My Dearest Friend": "./imgs/princess.png",
+    "The most Beautiful Person": "./imgs/princess.png",
   },
 
   desc: {
